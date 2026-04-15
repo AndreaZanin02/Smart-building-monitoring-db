@@ -1,0 +1,19 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# MySQL Workbench / Database tools
+*.mwbd
+*.mwb.bak
+.dbeaver/
+
+# IDEs (VS Code, IntelliJ, ecc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
